@@ -2,7 +2,7 @@
 
 <h2>Here is a screenshot from the site</h2>
 
-![gpt3](gpt3reactproject.png)
+![gpt3](gpt3reactprojecttt.png)
 
 
 ## Getting Started with Create React App
