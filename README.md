@@ -1,5 +1,4 @@
-<h1 style="color:red;">I'm currently working on this beautiful project.</h1>
-
+<span style="color:green;">I'm currently working on this beautiful project.</span>
 
 # Getting Started with Create React App
 
