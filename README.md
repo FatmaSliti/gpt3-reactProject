@@ -1,6 +1,8 @@
 <h1 style="color:green;">I'm currently working on this beautiful project.</h1>
 
+###Here is a screenshot from the site
 
+![gpt3](gpt3reactproject.png)
 
 
 ## Getting Started with Create React App
