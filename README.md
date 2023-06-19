@@ -1,6 +1,6 @@
 <h1 style="color:green;">I'm currently working on this beautiful project.</h1>
 
-###Here is a screenshot from the site
+<h2>Here is a screenshot from the site</h2>
 
 ![gpt3](gpt3reactproject.png)
 
