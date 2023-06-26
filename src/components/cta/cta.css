@@ -1,0 +1,48 @@
+.gpt3__cta {
+    background: var(--gradient-bar);
+    margin: 4rem;
+    padding: 2rem;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 11px;
+    Border: 1px;
+}
+
+.gpt3__cta-content {
+
+}
+
+.gpt3__cta-content p {
+    font-family: Manrope;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;    
+
+}
+
+.gpt3__cta-content h3 {
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 35px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+button {
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    border-radius: 40px;
+    padding: 0.5rem 2rem ;
+    color: white;
+    background-color: black;
+    border: none;
+    text-align: center;
+}
