@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+<h1 style="color:green;">I'm currently working on this beautiful project.</h1>
+
+<h2>Here is a screenshot from the site</h2>
+
+![gpt3](gpt3reactprojecttt.png)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
