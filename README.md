@@ -4,6 +4,11 @@
 
 ![gpt3](gpt3website.png)
 
+## Technologies Used
+
+- React
+- HTML
+- CSS (BEM methodology)
 
 ## Getting Started with Create React App
 
